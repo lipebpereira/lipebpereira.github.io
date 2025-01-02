@@ -1,3 +1,3 @@
 # Portfolio Felipe
 
-Este é um site para mostrar um pouco dos projetos que eu criei
+This is a website to showcase some of the projects I have created.
